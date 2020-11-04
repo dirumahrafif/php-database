@@ -12,3 +12,5 @@ if($koneksi == true){
     echo "<h1>Koneksi Gagal</h1>";
     exit();
 }
+
+date_default_timezone_set("Asia/Jakarta");
