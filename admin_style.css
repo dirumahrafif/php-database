@@ -1,0 +1,22 @@
+#wrapper {
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#content {
+    padding: 30px;
+    background-color: #FFFFFF;
+}
+
+#header {
+    background-color: #333333;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 50px;
+    padding: 10px;
+}
+
+body {
+    background-color: #dedede;
+}
